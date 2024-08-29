@@ -1,2 +1,5 @@
-# Jabberpoint opdracht voor het vak OGO
-Diagrammen zijn te vinden onder het mapje diagrams, de code voor de jabberpoint applicatie zijn te vinden onder het mapje app
+# Jabberpoint
+Diagrammen zijn te vinden in de map diagrammen.
+
+@Bram Jansen
+@NHL Stenden
